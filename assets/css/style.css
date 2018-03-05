@@ -16,6 +16,6 @@ canvas {
   filter:brightness(1.2);
 }
 
-div {
+div, p {
   margin: 20px;
 }
