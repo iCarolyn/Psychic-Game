@@ -1,0 +1,17 @@
+html, 
+body {
+  background: black;
+  text-align: center;
+  mix-blend-mode:lighter;
+overflow:hidden;
+ cursor:pointer;
+ color: #ffffff;
+ font-family: 'Viga', sans-serif;
+ font-size: 24pt;
+}
+
+canvas {
+  margin: 0 auto;
+  box-sizing: content-box;
+  filter:brightness(1.2);
+}
